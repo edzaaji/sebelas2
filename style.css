@@ -1,0 +1,53 @@
+h3 {
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    font-size: 30;
+    background-color: antiquewhite;
+    padding: 10px 13px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    line-height: normal;
+    height: 150px;
+    background-color: blanchedalmond;
+    left: 10cm;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    width: 150px;
+}
+
+tr:nth-child(even) {
+    background-color: burlywood;
+}
+
+
+h1 {
+    font-family:'poppins', 'Times New Roman';
+    font-size: 50;
+    margin: 100px;
+    text-align: center;
+    margin-right: 100px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin: -3%;
+    mix-blend-mode: multiply;
+}
+
+.wrapper {
+    margin: -50;
+    width: 100%;
+}
